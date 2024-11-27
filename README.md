@@ -1,6 +1,6 @@
 ### Hi 👋!
 
-I code in Python, R, SQL and a little bit of Javascript for statistical analyses, machine learning and arts. Most of my repositories are in fact supplementary materials to reproduce the results of my scientific papers.
+I code in Python, R, SQL and a little bit of Javascript, all for data science and arts. Most of my repositories are in fact supplementary materials to reproduce the results of my scientific papers.
 
 I packaged two Python libraries, a small set of dummy methods making pandas more tidy-friendly in `seekwellpandas`, and DJalgo, a user-friendly (but challenging to code) package for music composition intended to be used in [Marimo](https://github.com/marimo-team/marimo) and [Jupyter](https://github.com/jupyterlab/jupyterlab) notebooks.
 
