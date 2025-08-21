@@ -1,13 +1,14 @@
 ### Hi!
 
-I code in Python, R, SQL and a little bit of Javascript, all for data science and arts. Most of my repositories are in fact supplementary materials to reproduce the results of my scientific papers.
+I code in Python, R, SQL and Javascript, all for data science and arts. Most of my repositories are in fact supplementary materials to reproduce the results of my scientific papers.
 
-I packaged two Python libraries, a small set of dummy methods making pandas more tidy-friendly in `seekwellpandas`, and DJalgo, a user-friendly (but challenging to code) package for music composition intended to be used in [Marimo](https://github.com/marimo-team/marimo) and [Jupyter](https://github.com/jupyterlab/jupyterlab) notebooks.
+I'm working on professionnal projects in hydrology, ecology and agriculture. Personal projects here on GitHub include 
 
-- [`seekwellpandas`](https://github.com/essicolo/seekwellpandas)
-- [`djalgo`](https://gitlab.com/essicolo/djalgo), on Gitlab
+- `ggviews`, a Python implementation of the grammar of graphics of ggplot2 based on holoviews, 
+- `nuee`, a multivariate data analysis package for numerical ecology,
+- `jmon-studio`, a TypeScript library for music composition with code and math (no-AI). `jmon-sutio` is designed to be the successor of `djalgo`, which I coded for Python. 
 
- I also love creating educational contents: I set up some reposotories for lectures and courses.
+I also love creating educational contents: I set up some reposotories for lectures and courses.
 
 - [In French] [**🐨 Analyse et modélisation d'agroécosystèmes avec R**](https://github.com/essicolo/ecologie-mathematique-R). I wrote this book as a support for a course I created. The book is kind of oudated, but there is a [fork](https://github.com/chavalli/ecologie-mathematique-R) from the people who took up the course. Why a koala emoji? Because there is no emoji for the opossum.
 - [In French] [**Introduction au calcul numérique avec Python**](https://github.com/essicolo/introduction-au-calcul-numerique-avec-python). Here and there, I'm asked to teach Python to academic students and professionals. This is a very short take on how to start using Python for science and engineering. But I wrote it before the AI boom, so maybe it would need adjustments.
