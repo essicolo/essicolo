@@ -4,7 +4,7 @@ I code in Python, R, SQL and Javascript, all for data science and arts. Most of 
 
 I'm working on professionnal projects in hydrology, ecology and agriculture. Personal projects here on GitHub include 
 
-- `ggoat`, an implementation of lets-plot but, available in the browser with Pyodide
+- `ggoat`, an implementation of lets-plot available in the browser with Pyodide
 - `nuee`, a multivariate data analysis package for numerical ecology,
 - `jmon-studio`, a TypeScript library for music composition with code and math (no-AI). `jmon-sutio` is designed to be the successor of `djalgo`, which I coded for Python. 
 
