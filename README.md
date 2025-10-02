@@ -1,11 +1,11 @@
 ### Hi!
 
-I code in Python, R, SQL and Javascript, all for data science and arts. Most of my repositories are in fact supplementary materials to reproduce the results of my scientific papers.
+I code in Python, R, SQL and Javascript, for data science and arts. Most of my repositories are in fact supplementary materials to reproduce the results of my scientific papers. I'm working on professionnal projects in hydroclimatology, ecology and agriculture. Personal projects here on GitHub include 
 
-I'm working on professionnal projects in hydrology, ecology and agriculture. Personal projects here on GitHub include 
-
-- `nuee`, a multivariate data analysis Python package for numerical ecology,
-- `jmon-studio`, a JavaScript library for music composition with code and math (no-AI). `jmon-studio` is designed to be the successor of `djalgo`, which I coded for Python. 
+- `seekwellpandas`, adding tidy methods to pandas data frames,
+- `ggviews`, a ggplot2 interface to holoviews for more intuitive vizualisations,
+- `nuee`, a multivariate data analysis Python package for numerical ecology, and
+- `jmonlabs`, an organisation dedicated to music composition with code and math (no-AI).
 
 I also love creating educational contents: I set up some reposotories for lectures and courses.
 
