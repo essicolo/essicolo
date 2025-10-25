@@ -1,11 +1,11 @@
 ### Hi!
 
-I code in Python, R, SQL and Javascript, for data science and arts. Most of my repositories are in fact supplementary materials to reproduce the results of my scientific papers. I'm working on professionnal projects in hydroclimatology, ecology and agriculture. Personal projects here on GitHub include 
+I code in Python, R, SQL and Javascript, for data science and arts. Most of my repositories are in fact supplementary materials to reproduce the results of my scientific papers. I'm working on professionnal projects in hydroclimatology, ecology and agriculture. Projects here on GitHub include 
 
-- `seekwellpandas`, adding tidy methods to pandas data frames,
-- `ggviews`, a ggplot2 interface to holoviews for more intuitive vizualisations,
-- `nuee`, a multivariate data analysis Python package for numerical ecology, and
-- `jmonlabs`, an organisation dedicated to music composition with code and math (no-AI).
+- [`nuee`](https://github.com/essicolo/nuee), a multivariate data analysis Python package for numerical ecology,
+- [`tangent-notebook`](https://github.com/tangent-studio/tangent-notebook), computing notebooks for JavaScript, made available at notebook.tangent.to
+- [`jmonlabs`](https://github.com/jmonlabs), an organisation dedicated to music composition with code and math (no-AI).
+- [`seekwellpandas`](https://github.com/essicolo/seekwellpandas), adding tidy methods to pandas data frames,
 
 I also love creating educational contents: I set up some reposotories for lectures and courses.
 
