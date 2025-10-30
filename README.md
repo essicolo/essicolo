@@ -2,10 +2,11 @@
 
 I code for science and arts. Most of my repositories are in fact supplementary materials to reproduce the results of my scientific papers. I'm working on professionnal data science projects in hydroclimatology, ecology and agriculture. Projects here on GitHub include 
 
-- [`nuee`](https://github.com/essicolo/nuee), a multivariate data analysis Python package for numerical ecology,
+- [`nuee`](https://github.com/essicolo/nuee), a work-in-progress multivariate data analysis Python package for numerical ecology
+- [`tangent-ds`](https://github.com/tangent-studio/tangent-ds), a work-in-progress JavaScript generic package for data science, including statistics, multivariate data analisys, machine learning and plot utilities
 - [`tangent-notebook`](https://github.com/tangent-studio/tangent-notebook), computing notebooks for JavaScript, made available at notebook.tangent.to
-- [`jmonlabs`](https://github.com/jmonlabs), an organisation dedicated to music composition with code and math (no-AI).
-- [`seekwellpandas`](https://github.com/essicolo/seekwellpandas), adding tidy methods to pandas data frames,
+- [`jmonlabs`](https://github.com/jmonlabs), an organisation dedicated to music composition with code and math (no-AI), where I develop [jmon-algo](https://github.com/jmonlabs/jmon-algo) an algorithmic music composition toolkit aimed to be the successor of [Djalgo](https://djalgo-ef307e.gitlab.io/), written in Python with less standard conventions
+- [`seekwellpandas`](https://github.com/essicolo/seekwellpandas), a small package adding tidy methods to pandas data frames
 
 I also love creating educational contents: I set up some reposotories for lectures and courses.
 
