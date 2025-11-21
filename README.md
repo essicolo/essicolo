@@ -3,8 +3,8 @@
 I develop packages for research and education, in science and arts, although most of my repositories are educational material and supplementary materials to reproduce the results of my scientific papers. I'm working on professionnal data science projects in hydroclimatology, ecology and agriculture. 
 
 - [`nuee`](https://github.com/essicolo/nuee), a multivariate data analysis Python package for numerical ecology
-- [`tangent/ds`](https://github.com/tangent-to/ds), a JavaScript generic package for data science, including statistics, multivariate data analisys, machine learning and plot utilities
-- [`tangent/mc`](https://github.com/tangent-to/mc), a work-in-progress JavaScript package for Bayesian inference
+- [`tangent/ds`](https://github.com/tangent-to/ds), a JavaScript generic package for data science, including statistics, multivariate data analisys, machine learning and plot utilities. I'm working on a short course on data science with JavaScript at [observablehq.com/collection/@essi/data-science-with-tangent](https://observablehq.com/collection/@essi/data-science-with-tangent)
+- [`tangent/mc`](https://github.com/tangent-to/mc), an early, vibe coded work-in-progress package for Bayesian inference in JavaScript
 - [`jmonlabs`](https://github.com/jmonlabs), an organisation dedicated to music composition with code and math (no-AI), where I develop [jmon-algo](https://github.com/jmonlabs/jmon-algo) an algorithmic music composition toolkit aimed to be the successor of [Djalgo](https://djalgo-ef307e.gitlab.io/), written in Python with less standard conventions
 - [`seekwellpandas`](https://github.com/essicolo/seekwellpandas), a small package adding tidy methods to pandas data frames
 
