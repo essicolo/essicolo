@@ -1,6 +1,6 @@
 ### Hi!
 
-I code for science and arts. Most of my repositories are in fact supplementary materials to reproduce the results of my scientific papers. I'm working on professionnal data science projects in hydroclimatology, ecology and agriculture. Projects here on GitHub include 
+I develop packages for research and education, in science and arts, although most of my repositories are educational material and supplementary materials to reproduce the results of my scientific papers. I'm working on professionnal data science projects in hydroclimatology, ecology and agriculture. 
 
 - [`nuee`](https://github.com/essicolo/nuee), a multivariate data analysis Python package for numerical ecology
 - [`tangent/ds`](https://github.com/tangent-to/ds), a JavaScript generic package for data science, including statistics, multivariate data analisys, machine learning and plot utilities
