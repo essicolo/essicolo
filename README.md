@@ -1,4 +1,4 @@
-**Hi, I'm Essi**. I develop packages for research and education, in science and arts, although most of my repositories are educational material and supplementary materials to reproduce the results of my scientific papers. I'm working on professionnal data science projects in hydroclimatology, ecology and agriculture. 
+**Hi, I'm Essi**. I develop packages for research and education, in science and arts, although most of my repositories are educational material and supplementary materials to reproduce the results of my scientific papers. I'm working on professionnal data science projects in hydroclimatology, ecology and agriculture. Here are some projects I'm very proud of.
 
 - [`nuee`](https://github.com/essicolo/nuee), a multivariate data analysis Python package for numerical ecology
 - [`tangent/ds`](https://github.com/tangent-to/ds), a JavaScript generic package for data science, including statistics, multivariate data analisys, machine learning and plot utilities. I'm working on a short course on data science with JavaScript at [observablehq.com/collection/@essi/data-science-with-tangent](https://observablehq.com/collection/@essi/data-science-with-tangent)
