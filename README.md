@@ -1,15 +1,20 @@
-**Hi, I'm Essi**. I develop packages for research and education, in science and arts, although most of my repositories are educational material and supplementary materials to reproduce the results of my scientific papers. I'm working on professionnal data science projects in hydroclimatology, ecology and agriculture. Here are some projects I'm very proud of.
+### Hi, I'm Essi.
 
-- [`nuee`](https://github.com/essicolo/nuee), a multivariate data analysis Python package for numerical ecology
-- [`tangent/ds`](https://github.com/tangent-to/ds), a JavaScript generic package for data science, including statistics, multivariate data analisys, machine learning and plot utilities. I'm working on a short course on data science with JavaScript at [observablehq.com/collection/@essi/data-science-with-tangent](https://observablehq.com/collection/@essi/data-science-with-tangent)
-- [`tangent/mc`](https://github.com/tangent-to/mc), an early, vibe coded work-in-progress package for Bayesian inference in JavaScript
-- [`jmonlabs`](https://github.com/jmonlabs), an organisation dedicated to music composition with code and math (no-AI), where I develop the [jmon](https://github.com/jmonlabs/format) declarative music format and [`jmon/algo`](https://github.com/jmonlabs/jmon-algo), an algorithmic music composition toolkit aimed to be the successor of [Djalgo](https://djalgo-ef307e.gitlab.io/), written in Python with less standard conventions
-- [`seekwellpandas`](https://github.com/essicolo/seekwellpandas), a small Python package adding tidy methods to pandas data frames
+I architect and develop packages for research and education, bridging the gap between rigorous science and creative arts. My work focuses on building reproducible workflows and intuitive tools for ecology, agriculture and hydrology.
 
-I also love creating educational contents: I set up some reposotories for lectures and courses.
+I am passionate about crafting tools for data science.
 
-- [In French] [**Analyse et modélisation d'agroécosystèmes avec R**](https://github.com/essicolo/ecologie-mathematique-R). I wrote this book as a support for a course I created. The book is kind of oudated, but there is a [fork](https://github.com/chavalli/ecologie-mathematique-R) from the people who took up the course. A course in Python with `nuee` and another with `tangent/ds` are on the roadmap.
-- [In French] [**Introduction au calcul numérique avec Python**](https://github.com/essicolo/introduction-au-calcul-numerique-avec-python). Here and there, I'm asked to teach Python to academic students and professionals. This is a very short take on how to start using Python for science and engineering. But I wrote it before the AI boom, so maybe it would need adjustments.
-- [**DJalgo's User Guide**](https://djalgo-ef307e.gitlab.io/source/user-guide.html). This is a guide for composing music with math while staying in the browser. For long, I wondered how to soundify mathematics. I found some composers using intriguing techniques to do so, implemented some of my own, packaged it in DJalgo and wrote a free online book in the subject. Techniques include loops, minimalism, randomized walks, fractals and genetic algorhitms. I also cover AI in music: though there are impressive AIs around, I'm encouraging and show how to create one of your own.
+* [`nuee`](https://github.com/essicolo/nuee) — A multivariate data analysis Python package for numerical ecology, designed for high-performance scientific computing.
+* [`tangent/ds`](https://github.com/tangent-to/ds) — A generic JavaScript package for data science, bringing "Tidy" principles to the browser (Statistics, ML, Plotting). *Check out my new course on [Observable](https://observablehq.com/collection/@essi/data-science-with-tangent).*
+* [`tangent/mc`](https://github.com/tangent-to/mc) — An **experimental** engine for Bayesian inference in JavaScript (Work in Progress).
+* [`jmonlabs`](https://github.com/jmonlabs) — An organization dedicated to **algorithmic music composition** where I develop the `jmon` declarative format and [`jmon/algo`](https://github.com/jmonlabs/jmon-algo).
+* [`seekwellpandas`](https://github.com/essicolo/seekwellpandas) — A Python utility extending pandas with consistent tidy methods.
 
-As for CV, I'm an engineer and interdisciplinary academic researcher in data science, ecological engineering and agriculture.
+I also maintain educational & community resources.
+
+* **[In French]** [**Analyse et modélisation d'agroécosystèmes avec R**](https://github.com/essicolo/ecologie-mathematique-R) — Foundational course material on R for ecologists. *(See the [active fork](https://github.com/chavalli/ecologie-mathematique-R) here)*.
+* **[In French]** [**Introduction au calcul numérique avec Python**](https://github.com/essicolo/introduction-au-calcul-numerique-avec-python) — A primer on scientific Python for engineers.
+* [**DJalgo's User Guide**](https://djalgo-ef307e.gitlab.io/source/user-guide.html) — A comprehensive guide on soundifying mathematics (fractals, genetic algorithms) in the browser.
+
+---
+*Professional background: Senior Engineer & Ph.D. in Data Science / Ecological Engineering.*
