@@ -1,6 +1,6 @@
 ### Hi, I'm Essi.
 
-I architect and develop packages for research and education, bridging the gap between rigorous science and creative arts. My work focuses on building reproducible workflows and intuitive tools for ecology, agriculture and hydrology.
+I architect and develop packages for research and education, bridging the gap between rigorous science and creative arts. My work focuses on building reproducible workflows and intuitive tools for ecology, mineral resources, agriculture and hydrology.
 
 I am passionate about crafting tools for data science.
 
