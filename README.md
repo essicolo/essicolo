@@ -16,7 +16,7 @@ I also maintain educational & community resources.
 * **[In French]** [**Introduction au calcul numérique avec Python**](https://github.com/essicolo/introduction-au-calcul-numerique-avec-python) — A primer on scientific Python for engineers.
 * [**DJalgo's User Guide**](https://djalgo-ef307e.gitlab.io/source/user-guide.html) — A comprehensive guide on soundifying mathematics (fractals, genetic algorithms) in the browser.
 
-My favorite hobby project is [Dustic](https://dustic.app), an audio streaming progressive web app that plays files from archive.org. It's a gateway to discovering unusual and intriguing music, audiobooks, and podcasts in the public domain!
+My favorite hobby project is [Dustic](https://github.com/essicolo/dustic), available at https://dustic.app, an audio streaming progressive web app that plays files from archive.org. It's a gateway to discovering unusual and intriguing music, audiobooks, and podcasts in the public domain!
 
 ---
 *Professional background: Senior Engineer & Ph.D. in Data Science / Ecological Engineering.*
