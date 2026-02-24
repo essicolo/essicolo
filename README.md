@@ -6,8 +6,7 @@ I am passionate about crafting tools for data science.
 
 * [`nuee`](https://github.com/essicolo/nuee) — A multivariate data analysis Python package for numerical ecology, designed for high-performance scientific computing.
 * [`tangent/ds`](https://github.com/tangent-to/ds) — A generic JavaScript package for data science, bringing "Tidy" principles to the browser (Statistics, ML, Plotting). *Check out my new course on [Observable](https://observablehq.com/collection/@essi/data-science-with-tangent).*
-* [`tangent/mc`](https://github.com/tangent-to/mc) — An **experimental** engine for Bayesian inference in JavaScript (Work in Progress).
-* [`jmonlabs`](https://github.com/jmonlabs) — An organization dedicated to **algorithmic music composition** where I develop the `jmon` declarative format and [`jmon/algo`](https://github.com/jmonlabs/jmon-algo).
+* [`jmonlabs`](https://github.com/jmonlabs) — An organization dedicated to algorithmic music composition where I develop the `jmon` declarative format and [`jmon/algo`](https://github.com/jmonlabs/jmon-algo).
 * [`seekwellpandas`](https://github.com/essicolo/seekwellpandas) — A Python utility extending pandas with consistent tidy methods.
 
 I also maintain educational & community resources.
