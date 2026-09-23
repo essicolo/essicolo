@@ -1,24 +1,32 @@
-### Hi, I'm Essi.
+## Hi, I'm Essi.
 
-I design and build software for research, education, and creative computation, with a focus on reproducible workflows, scientific data tools, and interactive experiences. My work sits at the intersection of data science, numerical ecology, and artistic experimentation.
+I build physics-based models, and the open tools that make them reproducible. My work spans hydrology, soils, agronomy, ecology, ... and music.
 
-I build tools that make complex ideas usable, from multivariate analysis and hydrological modeling to algorithmic composition and browser-based scientific exploration.
+### Modelling
 
-I am passionate about crafting tools for data science.
+- [`nuee`](https://github.com/essicolo/nuee) Multivariate analysis for numerical ecology in Python.
+- [`meandre`](https://github.com/essicolo/meandre) Differentiable hydrology. Process-based catchment models in which every flux and storage term is differentiable, for gradient-based calibration at scale, sensitivity analysis, and hybrid models constrained by conservation laws.
+- [`capyllary`](https://tangent.to/projects/capyllary) Differentiable constitutive laws for unsaturated hydromechanics: coupled flow, poromechanics and contaminant transport in pure Python, runnable in a marimo notebook with nothing to install.
 
-* [`nuee`](https://github.com/essicolo/nuee) A multivariate data analysis Python package for numerical ecology, designed for high-performance scientific computing.
-* [`tangent/ds`](https://github.com/tangent-to/ds) A generic JavaScript package for data science, bringing “Tidy” principles to the browser (Statistics, ML, Plotting). *Check out my new course on [Data Science in the Browser](https://tangent-to.github.io/ds/).* 
-* [`meandre`](https://github.com/essicolo/meandre) A differentiable, experimental hydrology model built as a PINN (physically induced neural network), designed to behave like a perturbation system: once trained, it reveals how complex processes respond.
-* [`jmonlabs`](https://github.com/jmonlabs) An organization dedicated to algorithmic music composition where I develop the `jmon` declarative format and [`jmon/algo`](https://github.com/jmonlabs/jmon) to explore generative and computational creativity.
-* [`seekwellpandas`](https://github.com/essicolo/seekwellpandas) A Python utility extending pandas with consistent tidy methods.
+### The tangent suite
 
-I also maintain educational and community resources.
+The [`tangent/suite`](https://suite.tangent.to) is an install-free scientific computing in JavaScript, tested against reference tools in R and Python.
+- [`ds`](https://github.com/tangent-to/ds) Data science: ordination, clustering, classical statistics and machine learning. Companion course: [Data Science in the Browser](https://tangent-to.github.io/ds/).
+- [`mc`](https://github.com/tangent-to/mc) Bayesian inference and MCMC sampling.
+- [`sem`](https://github.com/tangent-to/sem) Structural equation modeling.
+- [`nn`](https://github.com/tangent-to/nn) Neural networks (CPU, float64).
+- Numerical building blocks: [`proba`](https://github.com/tangent-to/proba) (probability distributions), [`grad`](https://github.com/tangent-to/grad) (automatic differentiation), [`opt`](https://github.com/tangent-to/opt) (optimizers), [`ode`](https://github.com/tangent-to/ode) (ODE solvers).
+- [`note`](https://note.tangent.to) Local-first computational notebooks running in the browser. No server, works offline.
 
-* **[In French]** [**Analyse et modélisation d'agroécosystèmes avec R**](https://github.com/essicolo/ecologie-mathematique-R) Foundational course material on R for ecologists. *(See the [active website](https://ecologie-mathematique-r.netlify.app/).)*
-* **[In French]** [**Introduction au calcul numérique avec Python**](https://github.com/essicolo/introduction-au-calcul-numerique-avec-python) A primer on scientific Python for engineers.
-* [**DJalgo's User Guide**](https://djalgo-ef307e.gitlab.io/source/user-guide.html) A comprehensive guide to soundifying mathematics (fractals, genetic algorithms) in the browser.
+### Creative computation
 
-The audio streaming frontend [Dustic](https://github.com/essicolo/dustic) is a hobby project available at https://dustic.app and can be installed everywhere as a PWA. It plays audio from archive.org and is designed for a lightweight, immersive listening experience.
+- [jmonlabs](https://github.com/jmonlabs) Algorithmic music composition with the `jmon` declarative format (my own Json Musical Object Notation) and [`jmon/algo`](https://github.com/jmonlabs/jmon), a library for algorithmic composition.
+- [dustic](https://github.com/essicolo/dustic) A lightweight audio player for archive.org collections, installable as a PWA at [dustic.app](https://dustic.app).
+
+### Teaching (in French)
+
+- [Analyse et modélisation d'agroécosystèmes avec R](https://ecologie-mathematique-r.netlify.app/) Course notes on data analysis and modeling for ecologists ([source](https://github.com/essicolo/ecologie-mathematique-R)).
+- [Introduction au calcul numérique avec Python](https://github.com/essicolo/introduction-au-calcul-numerique-avec-python) A primer on scientific Python for engineers.
 
 ---
-*Professional background: Senior Engineer & Ph.D. in Data Science / Ecological Engineering.*
+*Ph.D. in civil engineering. More at [tangent.to](https://tangent.to).*
