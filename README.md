@@ -1,6 +1,6 @@
 ## Hi, I'm Essi.
 
-I build physics-based models, and the open tools that make them reproducible. My work spans hydrology, soils, agronomy, ecology, ... and music.
+I build physics-based models, and the open tools that make them reproducible. My work spans hydrology, soils, agronomy, ecology, geology ... and music.
 
 ### Modelling
 
